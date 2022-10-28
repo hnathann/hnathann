@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning how works C and 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ; idk
-**📊 My Github Stats**
-
+- **📊 My Github Stats : **
 
 
 
