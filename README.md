@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @hnathann
-- 👀 I’m interested in github
-- 🌱 I’m currently learning how works github
+- 👀 I’m interested in understanding how this works
+- 🌱 I’m currently learning how works C and 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ; idk
+**📊 My Github Stats**
 
-**My Stats**
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnathann&show_icons=true&theme=transparent)
 
 
